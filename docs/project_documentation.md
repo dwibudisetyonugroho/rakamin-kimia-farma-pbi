@@ -3,7 +3,6 @@
 **Project Name:** Kimia Farma Business Performance Evaluation (2020–2023)  
 **Role:** Big Data Analytics Intern  
 **Program:** Rakamin Academy x Kimia Farma  
-**Date:** February 2026  
 **Status:** Completed  
 
 ---
