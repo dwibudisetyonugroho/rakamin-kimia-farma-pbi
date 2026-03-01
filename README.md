@@ -90,9 +90,9 @@ Access the full artifacts of this project:
 
 | Artifact | Link |
 | :--- | :--- |
-| **📊 Live Dashboard** | [View on Looker Studio](#) *(Update with your link)* |
+| **📊 Live Dashboard** | [View on Looker Studio](https://lookerstudio.google.com/reporting/7879589b-92ed-4125-87cf-d4139a5968bb) |
 | **💻 SQL Repository** | [View Code in `/sql`](./sql) |
-| **📄 Final PPT Deck** | [Download PDF](#) *(Update with your link)* |
+| **📄 Final PPT Deck** | [Download PDF](https://docs.google.com/presentation/d/1b_i-_CUoNNAnPz09AspdQzh3SPQ9vKhV/edit?usp=sharing&ouid=114832463945046974735&rtpof=true&sd=true) |
 
 ---
 
