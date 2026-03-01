@@ -60,7 +60,7 @@ Based on the analysis of **672K+ transactions** and **346B IDR** in revenue:
 ## 📊 Dashboard Preview
 *An interactive view of the performance metrics.*
 
-![Dashboard Snapshot](./assets/dashboard_snapshot.png)
+![Dashboard Snapshot](./assets/Rakamin-Kimia-Farma-PBI-Dashboard-Snapshot.pdf)
 *(Note: If the image does not load, please visit the Live Dashboard link below.)*
 
 **Key Visualizations Included:**
