@@ -92,7 +92,7 @@ Access the full artifacts of this project:
 | :--- | :--- |
 | **📊 Live Dashboard** | [View on Looker Studio](https://lookerstudio.google.com/reporting/7879589b-92ed-4125-87cf-d4139a5968bb) |
 | **💻 SQL Repository** | [View Code in `/sql`](./sql) |
-| **📄 Final PPT Deck** | [Download PDF](https://docs.google.com/presentation/d/1b_i-_CUoNNAnPz09AspdQzh3SPQ9vKhV/edit?usp=sharing&ouid=114832463945046974735&rtpof=true&sd=true) |
+| **📄 Final PPT Deck** | [Download PDF](https://drive.google.com/file/d/1eKfWhpLld1oiAq6PMHKulMOY_rHZ2kg2/view?usp=sharing) |
 
 ---
 
