@@ -13,6 +13,7 @@
 - [🏢 Business Context](#-business-context)
 - [🎯 Objectives](#-objectives)
 - [🛠️ Technology Stack](#️-technology-stack)
+- [📘 Detailed Project Documentation](#-detailed-project-documentation)
 - [💡 Key Insights & Recommendations](#-key-insights--recommendations)
 - [📊 Dashboard Preview](#-dashboard-preview)
 - [📂 Project Structure](#-project-structure)
@@ -42,6 +43,15 @@ As a **Big Data Analytics Intern**, the primary challenge was to unify four disp
 | **Version Control** | GitHub |
 | **Data Sources** | CSV Imports (Transactions, Inventory, Branches, Products) |
 
+## 📘 Detailed Project Documentation
+For a comprehensive technical breakdown, including:
+*   Full Data Architecture & ELT Pipeline diagrams.
+*   Deep-dive into Transformation Logic (Tiered Margin Math).
+*   Visualization Strategy & Business Rule mappings.
+*   Complete Data Flow Diagrams.
+
+👉 **[View the Full Technical Documentation Here](./docs/PROJECT_DOCUMENTATION.md)**
+
 ## 💡 Key Insights & Recommendations
 Based on the analysis of **672K+ transactions** and **346B IDR** in revenue:
 
@@ -56,6 +66,8 @@ Based on the analysis of **672K+ transactions** and **346B IDR** in revenue:
 ### 3. 📉 Revenue Stagnation
 - **Finding:** Revenue peaked in 2022 but dipped back to 2021 levels in 2023.
 - **Recommendation:** Investigate Q3-Q4 2023 drivers. Shift focus to promoting higher-tier products (>300k IDR) which carry 25-30% margins, rather than relying solely on volume growth of low-margin items.
+
+🔍 Want to see the exact SQL logic and data flow behind these insights? Check the **[Detailed Project Documentation](./docs/PROJECT_DOCUMENTATION.md)**.
 
 ## 📊 Dashboard Preview
 *An interactive view of the performance metrics.*
@@ -77,13 +89,13 @@ rakamin-kimia-farma-pbi/
 ├── .gitignore
 ├── README.md
 ├── sql/
-│ └── create_analysis_table.sql
+│   └── create_analysis_table.sql
 ├── docs/
-│ └── data_dictionary.md
+│   ├── data_dictionary.md       
+│   └── project_documentation.md 
 └── assets/
-└── dashboard_snapshot.png
+    └── dashboard_snapshot.png
 ```
-
 
 ## 🔗 Live Links
 Access the full artifacts of this project:
