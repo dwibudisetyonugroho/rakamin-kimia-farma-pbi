@@ -1,0 +1,14 @@
+# Ignore local editor configurations
+.vscode/
+.idea/
+
+# Ignore OS specific files
+.DS_Store
+Thumbs.db
+
+# Ignore local data files (never upload raw CSVs with PII if possible)
+*.csv
+*.xlsx
+
+# Ignore local logs
+*.log
