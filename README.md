@@ -72,7 +72,18 @@ Based on the analysis of **672K+ transactions** and **346B IDR** in revenue:
 ## 📂 Project Structure
 *(This section details the repository organization.)*
 
-> 🚧 **Updating Soon:** The detailed folder structure and file descriptions will be added in the final commit to ensure accuracy with the latest deliverables.
+```text
+rakamin-kimia-farma-pbi/
+├── .gitignore # Rules to exclude unnecessary files
+├── README.md # Project documentation & insights
+├── sql/
+│ └── create_analysis_table.sql # Main BigQuery script with tiered margin logic
+├── docs/
+│ └── data_dictionary.md # (Optional) Column definitions and business rules
+└── assets/
+└── dashboard_snapshot.png # Static image of the Looker Studio dashboard
+```
+
 
 ## 🔗 Live Links
 Access the full artifacts of this project:
@@ -81,7 +92,6 @@ Access the full artifacts of this project:
 | :--- | :--- |
 | **📊 Live Dashboard** | [View on Looker Studio](#) *(Update with your link)* |
 | **💻 SQL Repository** | [View Code in `/sql`](./sql) |
-| **🎥 Video Presentation** | [Watch on YouTube](#) *(Update with your link)* |
 | **📄 Final PPT Deck** | [Download PDF](#) *(Update with your link)* |
 
 ---
