@@ -74,14 +74,14 @@ Based on the analysis of **672K+ transactions** and **346B IDR** in revenue:
 
 ```text
 rakamin-kimia-farma-pbi/
-├── .gitignore # Rules to exclude unnecessary files
-├── README.md # Project documentation & insights
+├── .gitignore
+├── README.md
 ├── sql/
-│ └── create_analysis_table.sql # Main BigQuery script with tiered margin logic
+│ └── create_analysis_table.sql
 ├── docs/
-│ └── data_dictionary.md # (Optional) Column definitions and business rules
+│ └── data_dictionary.md
 └── assets/
-└── dashboard_snapshot.png # Static image of the Looker Studio dashboard
+└── dashboard_snapshot.png
 ```
 
 
